@@ -2,14 +2,12 @@
   alt="header"/>
 <br>
 # Profile
-
 **Studies:** Software Engineering at Universidad Peruana de Ciencias Aplicadas (UPC)
 <br>
-- 🌱 I’m currently learning Web Development and other programming languages
+
+- 💻 I'm currently learning Web Development using Angular
 
 - 📫 How to reach me **efabrizioae20@gmail.com**
-
-- ⚡ Fun fact : Food and Music🎵 are the reasons to live.
 
 <br>
 
@@ -23,8 +21,6 @@
       alt="xaericks" height="30" width="40" /></a>
 </p>
 
-<br>
-
 <h3>Languages and Tools:</h3>
 
 <p align="left">
@@ -36,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
          alt="css3" width="40" height="40" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
          alt="html5" width="40" height="40" />
   </a>
