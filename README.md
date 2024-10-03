@@ -65,7 +65,7 @@
 
 <h3>Statistical Data :</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=XaerickSReborn&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=XaerickSReborn&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false"
     alt="XaerickSReborn" 
     bg_color=#808080/></p>
 
