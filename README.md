@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Eric%20Fabrizio%20Agama%20Espinoza&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 <br>
-## **Studies:** Software Engineering at Universidad Peruana de Ciencias Aplicadas (UPC)
-
+## Software Engineering at Universidad Peruana de Ciencias Aplicadas (UPC)
 <br>
 
 - 💻 I'm currently learning Web Development using Angular
